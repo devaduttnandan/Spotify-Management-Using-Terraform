@@ -1,4 +1,4 @@
-This is a program thats helps you to manage your spotify library using terraform
+This is a program that helps you to manage your spotify library using terraform
 
 ![image](https://github.com/user-attachments/assets/d6d996ae-dd19-49d9-bed7-187a5fcc7022)
 
