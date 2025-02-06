@@ -1,7 +1,8 @@
 This is a program thats helps you to manage your spotify library using terraform
 
-![image](https://github.com/user-attachments/assets/d66d4422-8990-4ca2-9238-4bf66cfda141)
+![image](https://github.com/user-attachments/assets/d6d996ae-dd19-49d9-bed7-187a5fcc7022)
 
 you can see the reflections in the spotify library
-![image](https://github.com/user-attachments/assets/076fc453-b80b-4aab-af3a-8738476e0ee6)
+
+![image](https://github.com/user-attachments/assets/2d6d5d18-1710-4af5-b108-6cb2e7fcfd71)
 
